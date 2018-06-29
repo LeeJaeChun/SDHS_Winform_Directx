@@ -109,7 +109,7 @@ namespace winformTest
             {
                 sprite.Begin(SpriteFlags.AlphaBlend);
                 gameObject.Render();
-                sprite.End();
+                sprite.End(); 
             }
             device.EndScene();
             device.Present();

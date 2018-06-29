@@ -29,10 +29,19 @@ namespace winformTest
         {
             if (SceneMap.ContainsKey(index))
             {
-                SceneMap[ActiveIndex].ActiveScene(false);
-                SceneMap[index].ActiveScene(true);
+                ActiveIndex = index;
+                SceneMap[index].ActiveScene();
             }
         }
-        
+
+        public void Update()
+        {
+            SceneMap[ActiveIndex].Update();
+        }
+
+        public void Render()
+        {
+            SceneMap[ActiveIndex].Render();
+        }
     }
 }

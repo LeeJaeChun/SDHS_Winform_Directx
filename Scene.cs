@@ -4,7 +4,25 @@ using System.Text;
 
 namespace winformTest
 {
-    class Scene
+    abstract public class BaseScene
     {
+        public GameObject parentObj;
+
+        public virtual void ActiveScene()
+        {
+            Init();
+        }
+
+        public virtual void Init()
+        {
+        }
+
+        public virtual void Update()
+        {
+        }
+
+        public virtual void Render()
+        {
+        }
     }
 }
