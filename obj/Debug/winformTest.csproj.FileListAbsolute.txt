@@ -1,0 +1,65 @@
+c:\users\sdhs\documents\visual studio 2015\Projects\winformTest\bin\Debug\winformTest.exe.config
+c:\users\sdhs\documents\visual studio 2015\Projects\winformTest\bin\Debug\winformTest.exe
+c:\users\sdhs\documents\visual studio 2015\Projects\winformTest\bin\Debug\winformTest.pdb
+c:\users\sdhs\documents\visual studio 2015\Projects\winformTest\obj\Debug\winformTest.csprojResolveAssemblyReference.cache
+c:\users\sdhs\documents\visual studio 2015\Projects\winformTest\obj\Debug\winformTest.Form1.resources
+c:\users\sdhs\documents\visual studio 2015\Projects\winformTest\obj\Debug\winformTest.Properties.Resources.resources
+c:\users\sdhs\documents\visual studio 2015\Projects\winformTest\obj\Debug\winformTest.csproj.GenerateResource.Cache
+c:\users\sdhs\documents\visual studio 2015\Projects\winformTest\obj\Debug\winformTest.exe
+c:\users\sdhs\documents\visual studio 2015\Projects\winformTest\obj\Debug\winformTest.pdb
+C:\Users\아이리요호 서브컴\Documents\카카오톡 받은 파일\winformTest\bin\Debug\winformTest.exe.config
+C:\Users\아이리요호 서브컴\Documents\카카오톡 받은 파일\winformTest\bin\Debug\winformTest.exe
+C:\Users\아이리요호 서브컴\Documents\카카오톡 받은 파일\winformTest\bin\Debug\winformTest.pdb
+C:\Users\아이리요호 서브컴\Documents\카카오톡 받은 파일\winformTest\obj\Debug\winformTest.csprojResolveAssemblyReference.cache
+C:\Users\아이리요호 서브컴\Documents\카카오톡 받은 파일\winformTest\obj\Debug\winformTest.Form1.resources
+C:\Users\아이리요호 서브컴\Documents\카카오톡 받은 파일\winformTest\obj\Debug\winformTest.Properties.Resources.resources
+C:\Users\아이리요호 서브컴\Documents\카카오톡 받은 파일\winformTest\obj\Debug\winformTest.csproj.GenerateResource.cache
+C:\Users\아이리요호 서브컴\Documents\카카오톡 받은 파일\winformTest\obj\Debug\winformTest.csproj.CoreCompileInputs.cache
+C:\Users\아이리요호 서브컴\Documents\카카오톡 받은 파일\winformTest\obj\Debug\winformTest.exe
+C:\Users\아이리요호 서브컴\Documents\카카오톡 받은 파일\winformTest\obj\Debug\winformTest.pdb
+C:\Users\아이리요호 서브컴\Documents\카카오톡 받은 파일\winformTest\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.dll
+C:\Users\아이리요호 서브컴\Documents\카카오톡 받은 파일\winformTest\bin\Debug\Microsoft.DirectX.Diagnostics.dll
+C:\Users\아이리요호 서브컴\Documents\카카오톡 받은 파일\winformTest\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\아이리요호 서브컴\Documents\카카오톡 받은 파일\winformTest\bin\Debug\Microsoft.DirectX.Direct3DX.dll
+C:\Users\아이리요호 서브컴\Documents\카카오톡 받은 파일\winformTest\bin\Debug\Microsoft.DirectX.DirectDraw.dll
+C:\Users\아이리요호 서브컴\Documents\카카오톡 받은 파일\winformTest\bin\Debug\Microsoft.DirectX.DirectInput.dll
+C:\Users\아이리요호 서브컴\Documents\카카오톡 받은 파일\winformTest\bin\Debug\Microsoft.DirectX.DirectPlay.dll
+C:\Users\아이리요호 서브컴\Documents\카카오톡 받은 파일\winformTest\bin\Debug\Microsoft.DirectX.DirectSound.dll
+C:\Users\아이리요호 서브컴\Documents\카카오톡 받은 파일\winformTest\bin\Debug\Microsoft.DirectX.dll
+C:\Users\아이리요호 서브컴\Documents\카카오톡 받은 파일\winformTest\bin\Debug\Microsoft.DirectX.xml
+C:\Users\아이리요호 서브컴\Documents\카카오톡 받은 파일\winformTest\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.xml
+C:\Users\아이리요호 서브컴\Documents\카카오톡 받은 파일\winformTest\bin\Debug\Microsoft.DirectX.Diagnostics.xml
+C:\Users\아이리요호 서브컴\Documents\카카오톡 받은 파일\winformTest\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\아이리요호 서브컴\Documents\카카오톡 받은 파일\winformTest\bin\Debug\Microsoft.DirectX.Direct3DX.xml
+C:\Users\아이리요호 서브컴\Documents\카카오톡 받은 파일\winformTest\bin\Debug\Microsoft.DirectX.DirectDraw.xml
+C:\Users\아이리요호 서브컴\Documents\카카오톡 받은 파일\winformTest\bin\Debug\Microsoft.DirectX.DirectInput.xml
+C:\Users\아이리요호 서브컴\Documents\카카오톡 받은 파일\winformTest\bin\Debug\Microsoft.DirectX.DirectPlay.xml
+C:\Users\아이리요호 서브컴\Documents\카카오톡 받은 파일\winformTest\bin\Debug\Microsoft.DirectX.DirectSound.xml
+C:\Users\아이리요호 서브컴\Documents\카카오톡 받은 파일\winformTest\obj\Debug\winformTest.csproj.CopyComplete
+C:\Users\SDHS\Desktop\winformTest\bin\Debug\winformTest.exe.config
+C:\Users\SDHS\Desktop\winformTest\obj\Debug\winformTest.exe
+C:\Users\SDHS\Desktop\winformTest\obj\Debug\winformTest.pdb
+C:\Users\SDHS\Desktop\winformTest\bin\Debug\winformTest.exe
+C:\Users\SDHS\Desktop\winformTest\bin\Debug\winformTest.pdb
+C:\Users\SDHS\Desktop\winformTest\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.dll
+C:\Users\SDHS\Desktop\winformTest\bin\Debug\Microsoft.DirectX.Diagnostics.dll
+C:\Users\SDHS\Desktop\winformTest\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\SDHS\Desktop\winformTest\bin\Debug\Microsoft.DirectX.Direct3DX.dll
+C:\Users\SDHS\Desktop\winformTest\bin\Debug\Microsoft.DirectX.DirectDraw.dll
+C:\Users\SDHS\Desktop\winformTest\bin\Debug\Microsoft.DirectX.DirectInput.dll
+C:\Users\SDHS\Desktop\winformTest\bin\Debug\Microsoft.DirectX.DirectPlay.dll
+C:\Users\SDHS\Desktop\winformTest\bin\Debug\Microsoft.DirectX.DirectSound.dll
+C:\Users\SDHS\Desktop\winformTest\bin\Debug\Microsoft.DirectX.dll
+C:\Users\SDHS\Desktop\winformTest\bin\Debug\Microsoft.DirectX.xml
+C:\Users\SDHS\Desktop\winformTest\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.xml
+C:\Users\SDHS\Desktop\winformTest\bin\Debug\Microsoft.DirectX.Diagnostics.xml
+C:\Users\SDHS\Desktop\winformTest\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\SDHS\Desktop\winformTest\bin\Debug\Microsoft.DirectX.Direct3DX.xml
+C:\Users\SDHS\Desktop\winformTest\bin\Debug\Microsoft.DirectX.DirectDraw.xml
+C:\Users\SDHS\Desktop\winformTest\bin\Debug\Microsoft.DirectX.DirectInput.xml
+C:\Users\SDHS\Desktop\winformTest\bin\Debug\Microsoft.DirectX.DirectPlay.xml
+C:\Users\SDHS\Desktop\winformTest\bin\Debug\Microsoft.DirectX.DirectSound.xml
+C:\Users\SDHS\Desktop\winformTest\obj\Debug\winformTest.csprojResolveAssemblyReference.cache
+C:\Users\SDHS\Desktop\winformTest\obj\Debug\winformTest.Form1.resources
+C:\Users\SDHS\Desktop\winformTest\obj\Debug\winformTest.Properties.Resources.resources
+C:\Users\SDHS\Desktop\winformTest\obj\Debug\winformTest.csproj.GenerateResource.Cache
